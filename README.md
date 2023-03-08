@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am a Business Intelligence Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to learn and have a strong desire to stay on top of trends in the Data Analytics field. I have a Master Degree on Business Intelligence (with a specialization in Data Science 📊) and I am always looking for ways to improve my knowledge and capabilities in BI.
+- :telescope: I am a Business Intelligence Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to learn and have a strong desire to stay on top of trends in the Data Analytics field. I have a Master Degree in Business Intelligence (with a specialization in Data Science 📊) and I am always looking for ways to improve my knowledge and capabilities in BI.
 
 - :seedling: Exploring Data Modeling, Data Governance and Performance Improvement techniques.
 
